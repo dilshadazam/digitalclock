@@ -1,4 +1,4 @@
-// Code By Webdevtrick ( https://webdevtrick.com )
+// Code By dilshad ( https://codeinverse.com )
 function showTime() {
   var date = new Date();
   var h = date.getHours();
